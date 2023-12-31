@@ -6,7 +6,7 @@ My main interests in AI are reinforcement learning followed by graph neural netw
 
 
 🔭 I’m currently working on NLP architectures from scratch:
--  (Step by step guides will be available on Medium https://medium.com/@bscarleth.gtz)
+-  (Step by step guides will be available on Medium ![Static Badge](https://img.shields.io/badge/Story-Medium-black?style=flat&logo=medium&color=black&link=https%3A%2F%2Fmedium.com%2F%40bscarleth.gtz))
 
 🌱 I’m currently learning to create my own Open-gym environments for RL scenarios.
 
